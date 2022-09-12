@@ -1,11 +1,31 @@
-.booleaner {
+*{
+    margin: 0;
+}
+
+
+.titolo {
     width: 15%;
     padding-top: 5%;
+    padding-bottom: 1%;
     
+
 }
 header{
     background-image: url('../img/pattern.png');
     background-repeat: repeat;
-    background-size: 20%;
+    background-size: 40%;
     background-color: lightblue;
 }
+    
+.autore{
+    color: lightblue;
+
+}
+h1{
+    padding-top: 2%;
+}
+
+.data{
+    font-size: 75%;
+}
+
