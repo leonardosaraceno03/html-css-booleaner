@@ -1,3 +1,7 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+}
 *{
     margin: 0;
 }
@@ -29,3 +33,51 @@ h1{
     font-size: 75%;
 }
 
+.lorem{
+     background-color: yellow;
+}
+ul{
+    padding-bottom: 5%;
+}
+
+table{
+    width: 100%;
+    border-spacing: 0;
+    text-align: left;
+    
+}
+th{
+    background-color: aqua;
+}
+.colonnadx{
+    width: 50%;
+}
+
+.r1{
+    background-color: rgb(191, 224, 222);
+}
+.r3{
+    background-color: rgb(191, 224, 222);
+}
+.container{
+    position: relative;
+    ;
+}
+.top-left{
+    position: absolute;
+    font-size: larger;
+    bottom: 85%;
+    right: 88%;
+    color: white;
+    
+    
+
+    
+}
+.top-left2{
+    position: absolute;
+    font-size: larger;
+    bottom: 35%;
+    right: 88%;
+    color: white;
+}
